@@ -27,6 +27,8 @@ h2 {
 
 .contact h2 {
     margin-bottom: 15px;
+    font-size: 2rem;
+    color: #008080;
 }
 
 .contact p {
@@ -43,6 +45,7 @@ h2 {
 .form-group label {
     display: block;
     margin-bottom: 5px;
+    font-size: 1rem;
     color: #333;
 }
 
